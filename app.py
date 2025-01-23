@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for
 import sqlite3
-
+# hola soy Alvaro
 app = Flask(__name__)
 
 # Configuración de la base de datos
